@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.item {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+.high-rating {
+  color: green;
+  font-weight: bold;
+}
+.low-rating {
+  color: red;
+}
